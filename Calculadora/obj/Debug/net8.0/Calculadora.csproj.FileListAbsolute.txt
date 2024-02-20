@@ -12,3 +12,4 @@ C:\Users\henri\RiderProjects\Calculadora\Calculadora\obj\Debug\net8.0\refint\Cal
 C:\Users\henri\RiderProjects\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\henri\RiderProjects\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\henri\RiderProjects\Calculadora\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\henri\RiderProjects\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
